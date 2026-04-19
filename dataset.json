@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Kennewick, Washington. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Kennewick, Washington, US",
-  "export_job_id": "6ca3eb6c-8892-4bba-90b3-4f0633e26d52",
+  "export_job_id": "4a266276-ed78-4c17-b209-76b5f4d0cde5",
   "github_org": "Beamstation-Datasets",
   "id_short": 379703,
   "location_name": "Kennewick",
   "location_type": "city",
   "repo_name": "all-restaurants-in-kennewick-washington-us-sample-379703",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/379703/beamstation_379703_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_pct": 9.67,
+  "sample_pct": 9.77,
   "sample_records": 26,
-  "sample_sha256": "51ace6a9298c60052c30e58f2b8ec73bcdf6037ef099b262a11bbab841dc395d",
-  "sample_size_bytes": 109861,
-  "total_records": 269,
-  "updated_at": "2026-04-09T11:37:46.838887+00:00"
+  "sample_sha256": "fe8fbf4d775a2916d68829ab3eb0c5b2cb9fa7b37a9d48fee2288617c6239943",
+  "sample_size_bytes": 107675,
+  "total_records": 266,
+  "updated_at": "2026-04-16T11:37:18.726345+00:00"
 }
