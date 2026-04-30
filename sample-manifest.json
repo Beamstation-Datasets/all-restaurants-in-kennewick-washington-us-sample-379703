@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dc2af392-ba12-4a46-b75a-256374de1011",
+  "export_job_id": "9589b381-aa97-46cf-b72f-e9181d235043",
   "id_short": 379703,
-  "published_at": "2026-04-23T19:17:29Z",
+  "published_at": "2026-04-30T19:09:45Z",
   "repo_name": "all-restaurants-in-kennewick-washington-us-sample-379703",
   "sample_asset_name": "beamstation_379703_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/379703/beamstation_379703_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "05699a8e376a4aa311673b7195db3fe6c1e8b5e39388ea6d05f2ef3fd0e9e89b",
-  "sample_size_bytes": 62615,
-  "total_records": 147
+  "sample_records": 28,
+  "sample_sha256": "fa622e8bf996a879f9d74d849d43169d7cee1d200c3bb00bbdc5e8dcb6aa091a",
+  "sample_size_bytes": 103953,
+  "total_records": 282
 }
