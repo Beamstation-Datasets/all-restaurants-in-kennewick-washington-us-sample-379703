@@ -1,6 +1,6 @@
 # All Restaurants in Kennewick, Washington, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `379703` |
 | Location | Kennewick |
 | Category | Restaurants |
-| Full dataset size | 147 records |
-| Free sample size | 14 records (9.52%) |
-| Last export | 2026-04-23T11:09:47.873363+00:00 |
+| Full dataset size | 282 records |
+| Free sample size | 28 records (9.93%) |
+| Last export | 2026-04-30T11:15:43.191797+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kennewick-washington-us-sample-379703/releases/download/sample-latest/beamstation_379703_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
